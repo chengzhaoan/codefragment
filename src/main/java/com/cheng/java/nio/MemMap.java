@@ -4,7 +4,7 @@ import java.io.*;
 import java.nio.ByteBuffer;
 import java.nio.MappedByteBuffer;
 import java.nio.channels.FileChannel;
-import java.nio.file.Files;
+
 
 /**
  * Created by cheng on 2018/6/5.
@@ -75,7 +75,7 @@ public class MemMap {
             System.out.println("使用NIO 一般读时间： "+(endTime1 - startTime1));
 
 
-            Files.
+
 
 
         }catch (IOException e){
