@@ -4,7 +4,8 @@ import java.nio.ByteBuffer;
 import java.nio.charset.Charset;
 import java.util.Scanner;
 
-/**
+/**https://blog.csdn.net/a953713428/article/details/64907250
+ *
  * Created by cheng on 2018/6/7.
  *  URF-16 最后一个为什么结果是这个样的？
  *  Charset: UTF-16
