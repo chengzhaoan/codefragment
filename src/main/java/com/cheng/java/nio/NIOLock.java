@@ -41,4 +41,5 @@ public class NIOLock {
 
         // 记得用try/catch/finally{release()}方法释放锁
         lock1.release();
+    }
 }
